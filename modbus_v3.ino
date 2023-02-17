@@ -4,7 +4,7 @@
 
 //   WIFI configuration
 const char* ssid = "TP-Link_CF68_2.4";
-const char* password = "54368910";
+const char* password = "xxxxxxx";
 IPAddress local_IP(192, 168, 0, 123);  //  IP for ESP8266
 IPAddress gateway(192, 168, 0, 1);     // gateway
 IPAddress subnet(255, 255, 255, 0);   // mask
